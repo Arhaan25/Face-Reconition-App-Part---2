@@ -1,0 +1,59 @@
+center p {
+    font-size: 22px;
+}
+
+body {
+    background-image: linear-gradient(to right bottom, darkred, red, darkorange, orange, yellow, rgb(110, 110, 30),darkgreen, green, lightgreen, lightblue, blue, darkblue, purple,darkviolet, violet, pink, lightpink, brown, black, gray, darkgray, lightgray, white);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    background-color: darkred;
+    color: red;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_name_accuracy {
+    color: darkred;
+}
+
+#p1 {
+    background-color: orangered;
+    color: orange;
+}
+
+.faces {
+    background-color: yellow;
+    color: rgb(0, 82, 0);
+}
+
+#blablan {
+    background-color: green;
+    color: aqua;
+}
+
+#take {
+    background-color: darkblue;
+    color: rgb(74, 74, 255);
+}
+
+#check {
+    background-color: rgb(148, 62, 76);
+    color: pink;
+}
+
+#p2 {
+    background-color: darkviolet;
+    color: violet;
+}
+
+#p3 {
+    background-color: rgb(92, 29, 29);
+    color: rgb(185, 82, 82);
+}
